@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+
+Hey guys ! I'm Dave, I love creating and editing.
+I would like to create something special. 
